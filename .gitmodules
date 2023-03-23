@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "pwrFDR"]
+	path = pwrFDR
+	url = https://github.com/cran/pwrFDR
+	shallow = true
+	registered = true
+[submodule "PwrGSD"]
+	path = PwrGSD
+	url = https://github.com/cran/PwrGSD
+	shallow = true
+	registered = true
+[submodule "TableMonster"]
+	path = TableMonster
+	url = https://github.com/cran/TableMonster
+	shallow = true
+	registered = true
