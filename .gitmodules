@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "pwrFDR"]
-	path = pwrFDR
-	url = https://github.com/cran/pwrFDR
 [submodule "PwrGSD"]
 	path = PwrGSD
 	url = https://github.com/cran/PwrGSD
 [submodule "TableMonster"]
 	path = TableMonster
 	url = https://github.com/cran/TableMonster
+[submodule "pwrFDR"]
+	path = pwrFDR
+	url = https://github.com/cran/pwrFDR
